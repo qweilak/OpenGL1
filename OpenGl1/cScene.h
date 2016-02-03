@@ -8,6 +8,6 @@ public:
 	void Render();
 
 private:
-	float alfa;
+	float alfa, beta;
 };
 
